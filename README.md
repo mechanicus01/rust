@@ -1,2 +1,2 @@
 # rust
-Following the RUST book at https://doc.rust-lang.org/book
+Following The Rust Programming Language book from https://doc.rust-lang.org/book
